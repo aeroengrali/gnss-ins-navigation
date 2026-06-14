@@ -21,7 +21,7 @@ injected to demonstrate inertial coasting (dead reckoning).
 
 | Metric | Value |
 |---|---|
-| EKF horizontal RMS (GPS available, settled) | **2.50 m** (≈ GPS noise floor) |
+| EKF horizontal RMS (GPS available, settled) | **2.50 m** (below the ~3.5 m raw-GPS 2D scatter) |
 | EKF max error during 25 s GPS dropout | 9.5 m |
 | EKF error after re-acquisition | 2.6 m |
 | Estimated gyro bias | 0.510°/s (true 0.500°/s) |
