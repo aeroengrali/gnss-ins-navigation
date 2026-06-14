@@ -1,3 +1,5 @@
 ﻿*.asv
 slprj/
 
+*.mat
+*.csv
